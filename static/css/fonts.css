@@ -1,33 +1,36 @@
-fontarial{
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+fontarial {
   font-family: arial;
 }
-fontavant-garde{
-  font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+fontcalibri {
+  font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
 }
-fontbookman{
-  font-family: bookman, Bookman Old Style;
+fontroboto {
+  font-family: Roboto, sans-serif;
 }
-fontcalibri{
-  font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+
+* {
+  font-family: inherit;
 }
-fontcourier{
-  font-family: courier;
+.fontarial {
+  font-family: Arial, sans-serif !important;
 }
-fontgaramond{
-  font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;
+
+.fontcalibri {
+  font-family: Calibri, sans-serif !important;
 }
-fonthelvetica{
-  font-family: helvetica;
+
+.fontroboto {
+  font-family: "Roboto", sans-serif !important;
 }
-fontmonospace{
-  font-family: monospace;
+.fontfamily-roboto {
+  font-family: "Roboto", sans-serif !important;
 }
-fontpalatino{
-  font-family: palatino;
+.fontfamily-arial {
+  font-family: Arial, sans-serif !important;
 }
-fonttimes-new-roman{
-  font-family: times new roman;
-}
-*{
-  font-family:inherit
+
+.fontfamily-calibri {
+  font-family: Calibri, sans-serif !important;
 }

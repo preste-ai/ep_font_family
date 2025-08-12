@@ -1,17 +1,6 @@
-'use strict';
+"use strict";
 
-const fonts = [
-  'fontarial',
-  'fontavant-garde',
-  'fontbookman',
-  'fontcalibri',
-  'fontcourier',
-  'fontgaramond',
-  'fonthelvetica',
-  'fontmonospace',
-  'fontpalatino',
-  'fonttimes-new-roman',
-];
+const fonts = ["fontarial", "fontcalibri", "fontroboto"];
 
 exports.collectContentPre = (hook, context) => {
   const tname = context.tname;
