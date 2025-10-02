@@ -34,3 +34,18 @@ fontroboto {
 .fontfamily-calibri {
   font-family: Calibri, sans-serif !important;
 }
+
+span.fontfamily-arial {
+  font-family: Arial, sans-serif;
+}
+
+span.fontfamily-calibri {
+  font-family: Calibri, sans-serif;
+}
+
+span.fontfamily-roboto {
+  font-family: "Roboto", sans-serif;
+}
+.ace-line {
+  font-family: Arial, sans-serif;
+}
