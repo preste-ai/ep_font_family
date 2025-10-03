@@ -1,6 +1,6 @@
 "use strict";
 
-const fonts = ["fontarial", "fontcalibri", "fontroboto"];
+const fonts = ["arial", "calibri", "roboto"];
 
 exports.collectContentPre = (hook, context) => {
   const tname = context.tname;
